@@ -12,6 +12,7 @@ namespace ConsoleAPpFirst
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Added new line");
+            Console.WriteLine("Made changes");
         }
     }
 }
